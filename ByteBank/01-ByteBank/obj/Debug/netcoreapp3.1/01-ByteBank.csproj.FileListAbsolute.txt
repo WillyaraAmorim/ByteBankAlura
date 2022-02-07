@@ -1,0 +1,14 @@
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\bin\Debug\netcoreapp3.1\01-ByteBank.exe
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\bin\Debug\netcoreapp3.1\01-ByteBank.deps.json
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\bin\Debug\netcoreapp3.1\01-ByteBank.runtimeconfig.json
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\bin\Debug\netcoreapp3.1\01-ByteBank.runtimeconfig.dev.json
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\bin\Debug\netcoreapp3.1\01-ByteBank.dll
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\bin\Debug\netcoreapp3.1\01-ByteBank.pdb
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.csproj.AssemblyReference.cache
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.AssemblyInfoInputs.cache
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.AssemblyInfo.cs
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.dll
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.pdb
+C:\Users\brwsa1\Documents\Estudos\Alura\CSharp\ByteBank\ByteBank\01-ByteBank\obj\Debug\netcoreapp3.1\01-ByteBank.genruntimeconfig.cache
