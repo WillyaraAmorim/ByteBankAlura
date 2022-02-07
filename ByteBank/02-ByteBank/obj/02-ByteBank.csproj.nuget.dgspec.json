@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\01-ByteBank\\01-ByteBank.csproj": {}
+    "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\02-ByteBank\\02-ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\01-ByteBank\\01-ByteBank.csproj": {
+    "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\02-ByteBank\\02-ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
-        "projectName": "01-ByteBank",
-        "projectPath": "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
+        "projectName": "02-ByteBank",
+        "projectPath": "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\02-ByteBank\\02-ByteBank.csproj",
         "packagesPath": "C:\\Users\\brwsa1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\01-ByteBank\\obj\\",
+        "outputPath": "C:\\Users\\brwsa1\\Documents\\Estudos\\Alura\\CSharp\\ByteBank\\ByteBankAlura\\ByteBank\\02-ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brwsa1\\AppData\\Roaming\\NuGet\\NuGet.Config",
